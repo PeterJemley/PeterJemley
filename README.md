@@ -17,6 +17,9 @@ An MCP server giving agents provenance-verified access to a technical corpus on 
 
 [`docs/evidence-discipline.md`](https://github.com/PeterJemley/mcp-server-kleidiai/blob/main/docs/evidence-discipline.md) maps each principle to the place the repository enforces it.
 
+**[Clinical-Information-Retrieval](https://github.com/PeterJemley/Clinical-Information-Retrieval)** · Python
+A retrieval framework for domains where topical relevance is necessary but not sufficient. Documents are scored on a multidimensional function combining temporal decay (citation half-life), evidence weight drawn from meta-epidemiological rankings, and component scores for topical match, population applicability and actionability. Design assumptions carry an explicit epistemic type: theoretically derived, informed design choice subject to sensitivity analysis, or bold conjecture to be tested and reported. Success criteria are stated in advance — at least 5% NDCG@10 over a BM25 baseline, with the temporal-decay and evidence-weight contributions isolated separately. Implementation is complete; the evaluation against clinical relevance judgements has not been run yet, and the repository says so.
+
 **[Continuous-Depth Transformers with Learned Control Dynamics](https://arxiv.org/abs/2601.10007)** · arXiv:2601.10007 [cs.LG], January 2026
 Sole author. A hybrid transformer replacing discrete middle layers with a neural ODE block, giving inference-time control over generation via a learned steering signal. Contributes the Solver Invariance Test — a falsification diagnostic built to detect a specific failure of the architecture it evaluates.
 

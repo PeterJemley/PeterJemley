@@ -73,9 +73,9 @@ Intermittent active duty and National Guard service. Language training at the De
 **Vanderbilt University Law School** — Master of Legal Studies, May 2026 – Dec 2027 expected  
 **Fordham University, Center for Jewish Studies** — Werthein Fellow, Fall 2026  
 **Fordham University, Graduate School of Arts and Sciences** — M.A. Humanitarian Studies, admitted, deferred to the next academic year  
-**Northeastern University** — M.S. Health Informatics, Bouvé College of Health Sciences, *summa cum laude*, 2019–2020  
-**University of Washington** — B.A. History, *magna cum laude*, Honors, conferred 17 August 2018  
-**Defense Language Institute Foreign Language Center** — A.A. Modern Arabic, *summa cum laude*, Honors, 2005–2007  
+**Northeastern University** — M.S. Health Informatics, Bouvé College of Health Sciences, 2019–2020  
+**University of Washington** — B.A. History, Honors Program, conferred 17 August 2018. GPA 3.70; Dean’s List, four quarters  
+**Defense Language Institute Foreign Language Center** — Diploma with honors, Modern Standard Arabic, 2005–2007  
 **Seattle Central Community College** — A.A., August 2000  
 **Lake Washington Institute of Technology** — Diesel and Heavy Equipment Technology, 2004–2005, 65 credits, 4.00, President’s List; left to enter the Army  
 

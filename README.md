@@ -60,17 +60,24 @@ Built a unified search framework across three county-wide data streams — labor
 **Independent educator** · Jan 2009 – Jan 2022 · Washington, Vermont, New Hampshire
 Designed and taught a curriculum grounded in Karl Popper's critical rationalism, the position that knowledge advances by finding and correcting errors rather than by accumulating confirmations, and treated instruction accordingly. Completed the M.S. concurrently with the final years of this work.
 
-**Intelligence analyst and linguist** · Feb 2007 – Dec 2008 · National Security Agency and the Pentagon
-Arabic and French linguist and analyst on the Middle East counterterrorism mission, producing assessments from source material that was noisy, partly shaped to mislead, and incomplete, under limits on collection and retention set by statute, audited, and enforced. At the Office of Military Commissions, synthesised dense evidentiary material supporting military attorneys preparing capital cases — prosecutions in which the death penalty is available — working at the same time inside classification rules, the protection that keeps a lawyer's communications with a client confidential, and the obligation to disclose material to the other side.
+**Intelligence analyst** · Jan 2008 – Dec 2008 · AllWorld Language Consultants, Inc., assigned to the Office of Military Commissions, the Pentagon
+Cleared contract analyst; transferred clearances in person to the Office. Synthesised dense evidentiary material supporting military attorneys preparing capital cases — prosecutions in which the death penalty is available — working at the same time inside classification rules, the protection that keeps a lawyer’s communications with a client confidential, and the obligation to disclose material to the other side. Resigned in December 2008.
+
+**Arabic linguist and analyst** · Jun 2005 – Jan 2010 · United States Army and Army National Guard
+Intermittent active duty and National Guard service. Language training at the Defense Language Institute Foreign Language Center, Oct 2005 – Apr 2007. Assigned to the National Security Agency from Aug 2007, Middle East counterterrorism mission, in uniform: producing assessments from source material that was noisy, partly shaped to mislead, and incomplete, under limits on collection and retention set by statute, audited, and enforced.
 
 ---
 
 ### Education
 
-**Vanderbilt University Law School** — Master of Legal Studies, in progress
-**Northeastern University** — M.S. Informatics (health informatics and mathematics), *summa cum laude*, 2019–2020
-**University of Washington** — B.A. History, *magna cum laude*, Honors
-**Defense Language Institute** — A.A. Modern Arabic, *summa cum laude*, Honors
+**Vanderbilt University Law School** — Master of Legal Studies, May 2026 – Dec 2027 expected
+**Fordham University, Center for Jewish Studies** — Werthein Fellow, Fall 2026
+**Fordham University, Graduate School of Arts and Sciences** — M.A. Humanitarian Studies, admitted, deferred to the next academic year
+**Northeastern University** — M.S. Health Informatics, Bouvé College of Health Sciences, *summa cum laude*, 2019–2020
+**University of Washington** — B.A. History, *magna cum laude*, Honors, conferred 17 August 2018
+**Defense Language Institute Foreign Language Center** — A.A. Modern Arabic, *summa cum laude*, Honors, 2005–2007
+**Seattle Central Community College** — A.A., August 2000
+**Lake Washington Institute of Technology** — Diesel and Heavy Equipment Technology, 2004–2005, 65 credits, 4.00, President’s List; left to enter the Army
 
 ---
 
